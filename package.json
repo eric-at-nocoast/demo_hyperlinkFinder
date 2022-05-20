@@ -4,7 +4,7 @@
     "description": "A small node.js script that loops through articles and finds which one's have a href",
     "main": "hyperlinkFinder.js",
     "scripts": {
-      "start": "node hyperlinkFinder.js"
+      "start": "node index.js"
     },
     "author": "",
     "license": "MIT",
